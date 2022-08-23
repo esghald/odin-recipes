@@ -1,0 +1,53 @@
+body
+{
+    background-image: url(../img/spiration-light.webp);
+    color: #000;
+    font-size: 21px;
+    font-style: normal;
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+h1
+{
+    font-size: 79px;
+    color: #141a2e;
+    text-align: center;
+}
+
+a:link
+{
+    color: #202180;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: #461685;
+    
+}
+
+a:hover, a:focus
+{
+    color: #1742cf;
+    cursor: crosshair;
+}
+
+strong
+{
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.image
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25pt;
+    height: 400pt;
+    display: block;
+}
+
+li
+{
+    padding: 10px;
+}
